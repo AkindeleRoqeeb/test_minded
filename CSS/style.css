@@ -1,0 +1,32 @@
+body{
+    color: blue;
+}
+
+ul{
+    list-style: none;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: chartreuse;
+    justify-content: center;
+}
+
+h1{
+    margin: 0 auto;
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    padding: 60px;
+}
+
+li > a {
+    text-decoration: none;
+}
+
